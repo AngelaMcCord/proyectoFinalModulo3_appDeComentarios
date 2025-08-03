@@ -14,7 +14,7 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 72%;
+    width: 54%;
 }
 main h1{
     font-size: 30px;
